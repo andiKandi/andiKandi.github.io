@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27f877e0.css",
+    "main.js": "/static/js/main.270301b5.js",
+    "static/media/project_5.jpg": "/static/media/project_5.427507c2bc580299624e.jpg",
+    "static/media/project_2.jpg": "/static/media/project_2.b9167b039bf51f46535c.jpg",
+    "static/media/handshake.webp": "/static/media/handshake.08bac8c153d3fd2dd53f.webp",
+    "static/media/news.jpg": "/static/media/news.d10417cb82ad334c0744.jpg",
+    "static/media/project_4.jpg": "/static/media/project_4.140952ee4c30638e6715.jpg",
+    "static/media/stewie.png": "/static/media/stewie.10ea520d5cf0462111e8.png",
+    "static/media/project_1.jpeg": "/static/media/project_1.e5e729823697512288fd.jpeg",
+    "static/media/rick.jpg": "/static/media/rick.56ef50e42e66e18fe8c2.jpg",
+    "static/media/project_3.jpg": "/static/media/project_3.470e40bb8887b1196525.jpg",
+    "static/media/morty.webp": "/static/media/morty.05a4fff4916f604c565a.webp",
+    "index.html": "/index.html",
+    "main.27f877e0.css.map": "/static/css/main.27f877e0.css.map",
+    "main.270301b5.js.map": "/static/js/main.270301b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27f877e0.css",
+    "static/js/main.270301b5.js"
+  ]
+}
